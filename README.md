@@ -126,6 +126,7 @@ The dream of realizing the first-ever postCapitalist traveling school that is al
 Tune into the SolarPunk Guild's Gitcoin Community Radio, we’ll be talking about the trip, the eco-technologies we are using, the challenges ahead, and the LATAM tour!
 
 
+## Notes
 You can read the Climate Positive bus concept here:
 https://bit.ly/Bus_PositivoEnClima (ES)
 https://bit.ly/Climate-Positive_BusDesign (EN) [outdated]
