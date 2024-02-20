@@ -21,8 +21,9 @@ Thanks to the help of highly committed architects and engineers, we are able to 
 
 **Grey waters** into clean water to wash dishes, cloths, take a shower, and even drink it! 💧
 **Organic waste** into biogas to cook! and fertilizer to gift or sell 🌻
-**Solar energy** into electricity 🌞
-**Cooking oil** into fuel for the bus! 🚌
+**Solar and wind energy** into electricity 🌞
+**[Cooking oil or motor oil](https://steamsystems.wixsite.com/steamsystems)** or **[decontaminant plastic to diesel](https://www.petgas.com.mx/)** to fuel the bus! 🚌
+**Food production** via vertical or cylindrical farms 🌮
 
 We have three goals with this climate-positive transformation:
 1. Show that regenerative practices can be achieved without sacrificing lifestyle,
@@ -32,54 +33,49 @@ We have three goals with this climate-positive transformation:
     b. giving immersive tours within the bus,
     c. offering "Do It Yourself/Together" workshops to implement some of these practices / technologies.
     
-If you aren't reading anything else, please read only this:
+## If you aren't reading anything else, please read only this:
 We are driving over 10,000 Km, visiting 40 cities in 20 countries.
 Imagine the mindset change that can be achieved when decision makers from these places get to know that...
 
-by using cooking oil during our trip we are preventing ~600,000 liters of water from being polluted... how would they re-design their cities to include recycled cooking oil as an alternative fuel?
+* used oil and plastics fueled our trip! If we used only cooking oil we'll be preventing ~600,000 liters of water from being polluted...
+Or if we used only plastic to diesel we'll be removing 2,800Kg of plastics from the streets and nature...
 
-by turning our organic waste (~803kg/year) into cooking gas, we are avoiding the pollution of soil and water, easing the recycling process of non-organic solid waste, and producing energy that could be sold...how could cities, offices, restaurants, and neighborhoods take advantage of this practice?
+**How would decision makers re-design cities to include these alternative fuel systems?**
 
-by turning gray waters into clean water we can reuse 70% of it instead of wasting it!
+* turning our organic waste (~803kg/year) into cooking gas, we are avoiding the pollution of soil and water, easing the recycling process of non-organic solid waste, and producing energy that could be sold...
+**How could cities, offices, restaurants, and neighborhoods take advantage of this practice?**
 
-We hope that this bus inspires the actual building of SolarPunk Cities. We need your help to make it happen, we are very close and now we have a team that shares this same passion and vision.
+* turning gray waters into clean water we can reuse 70% of it instead of wasting it!
 
-![9 Viento y Urbánika](https://bafybeihnhmgbzxedilagtpgzfncq33k62vl5zghttcacfoiesot43u3sla.ipfs.dweb.link/Foto%20equipo%20con%209%20Viento.jpg)
+**We hope that this bus inspires the actual building of SolarPunk Cities.**
+We need your help to make it happen, we are very close and now we have a team that shares this same passion and vision.
 
 # 2. Architectural plans, render, and the climate-positive devices,
 
 Take a look at the overall design of bus!
+![Urbanika bus drawing compressed](https://github.com/Urbanika/PositiveClimate_Bus/assets/58118538/55b9ad2b-b5f6-4b82-8c06-d2856685218b)
 
-![Bus design](https://bafybeif72rzllkjjitcgjbojyigikno2z2wwl4haajnjahjvbiwkl4lyyy.ipfs.dweb.link/Urbanika%20bus%20drawing%20compressed.gif "bus design")
+![Overall bus design](https://github.com/Urbanika/PositiveClimate_Bus/assets/58118538/575f12c4-cf98-4125-bae2-430fe63ee779)
 
-Since GG18, we have been tirelessly working on building the plan of the bus, and looking for architects and engineers that were aligned and motivated with the challenge of converting our DINA 1993.
+Wanna see more? Go to the blueprints folder "[Planos arquitéctonicos y equipo](https://github.com/Urbanika/PositiveClimate_Bus/tree/main/Planos%20arquitect%C3%B3nicos%20y%20equipo)". We'll be updating it with the most recent blueprints.
+Also, check our [Twitter](www.twitter.com/0xUrbanika).
 
-The path was not straightforward, but after many trials and errors, we are incredibly happy to share that Carlos and Mariana from [9 Viento Arquitectos](https://www.facebook.com/9VientoArquitectos) are now part of Urbánika’s team!
+Our bus is a DINA Dorado 1993
+![DINA](https://github.com/Urbanika/PositiveClimate_Bus/assets/58118538/4daab203-0840-428e-b0ed-1a7190532d02)
+
+The path of getting technical specialized people onboard to make the transformation happen was not straightforward, we even got robbed by an architect, two more companies said it was not possible, and many others said if no one has done this before, it might not be possible...
+BUT here we are with the team of architects: Carlos and Mariana from [9 Viento](https://www.facebook.com/9VientoArquitectos).
+
+![9 Viento y Urbánika](https://bafybeihnhmgbzxedilagtpgzfncq33k62vl5zghttcacfoiesot43u3sla.ipfs.dweb.link/Foto%20equipo%20con%209%20Viento.jpg)
 
 This incredible couple came like a ray of sunshine and has conquered our hearts with their motivation and proactiveness - nothing is impossible, and since day 1 they have been working with all their passion and knowledge in making Urbanika’s bus a reality.
 
-Important: the architectural blueprint is licensed under Creative Commons Zero v1.0 Universal and available to be downloaded and used by anyone worldwide. You can access it at our Github here](https://github.com/Urbanika/PositiveClimate_Bus).
+The engineering team comes from the well-experienced [CIMEX group](https://tranvias-cimex.mx/). They are the ones carrying out the dreams in paper to reality.
 
-The drawings show the climate-positive specifications, hope you like them! Although the designs are not yet final, we are proud of the achievements up to date.
+Thanks to both teams for accompanying us through this journey.
 
-![The bus' general distribution](https://bafybeig2kwprz7ntpy6wyfij4h5daojaypqbgpqkcrc2d76jdlky6g5fqe.ipfs.dweb.link/Distribuci%C3%B3n%20general%20Urbanika%20bus.jpg "General Distribution")
-
-![Ecotech distribution](https://bafybeidfitez6nmtrgx4zwo543unni5ymumcnj5qnjkrg3wu3db3sncvvm.ipfs.dweb.link/Distribucion%20ecotecnias%20Urbanika%20bus.jpg "Distribution of Ecotechnologies")
-
-![View of the house and the school](https://bafybeiae4g7d7mnyyydg46g3omdmfpjkuc5yakuo2qbhtnaxr73emhcdyu.ipfs.dweb.link/Vista%20de%20Ecotecnias%20y%20Escuela.jpg "Viewing school and house")
-
-![Another view point](https://bafybeihejz3xcoplpvtr7g3y6mq5ss5un7cxyb35vhmausf76fo7slx2ji.ipfs.dweb.link/Vista%20Ecotenicas%20y%20Escuela%202.jpg "another view of the school and house")
-
-![View from the roof](https://bafybeifdahrgnu3um3oys2wojuupq5fgzbs6x27fsy6ejrccdfwwrlpkmu.ipfs.dweb.link/Vista%20techo%20y%20ecotecnias.jpg "View from the roof")
-
-
-If you want to see an example from another adventurer that went from Canada to Argentina employing only used cooking oil, check this video:
-
-https://youtu.be/0i8kz2r2xNw?t=169
-
-We have contacted him, and also, we have found a [Mexican-made system](https://steamsystems.wixsite.com/steamsystems) that does the same!! yeiih!!
-
-Wanna see more? Check our [Twitter](www.twitter.com/0xUrbanika), by the time you are reading this, you might see some other updates!
+## Would you like to turn your van, bus, or house into a climate-positive house?
+Glad you are! The architectural blueprint is licensed under Creative Commons Zero v1.0 Universal and available to be downloaded and used by anyone worldwide. Follow [this repository](https://github.com/Urbanika/PositiveClimate_Bus) and our Twitter profile to know more or ask questions.
 
 ## 3. Budget
 The architects and engineers have given us a total budget of $32K USD. This budget covers the entire climate-positive transformation. The remaining budget we have from GGBeta and GG18  after buying the bus and paying the architects is about $10K, that budget is enough to cover the start of the transformation works, which most likely will begin by the end of this GG19.
@@ -117,18 +113,14 @@ We'll love to work together in delivering real value where it is most impactful.
 
 If you love urban design, LARP or boardgame design, self-management, public relations, learning experiences, ruby on rails, or web3 development, pls contact us! your help is meaningful and well appreciated.
 
-2. wanna support? If it's in your possibilities, pls consider donating 0.0089 ETH.
+2. wanna support? If it's in your possibilities, pls consider donating to us at our [Giveth](https://giveth.io/project/urbanika) or Gitcoin Campaigns.
 
 The dream of realizing the first-ever postCapitalist traveling school that is also a climate-positive showroom is happening. Your donation will greatly help us reach the goal.
 
-3. wanna ask us something?
- 
-Tune into the SolarPunk Guild's Gitcoin Community Radio, we’ll be talking about the trip, the eco-technologies we are using, the challenges ahead, and the LATAM tour!
+3. sponsor the trip! If you have a methodology or technology related to facilitating the transition toward climate-positive, carbon-neutral, or circular economy ways, then contact us! We want to promote your products. Let's find a way to help each other make it happen. 
 
 
 ## Notes
 You can read the Climate Positive bus concept here:
 https://bit.ly/Bus_PositivoEnClima (ES)
-https://bit.ly/Climate-Positive_BusDesign (EN) [outdated]
-
-When we have the final blueprints and 3d models we will share them here through a Creative Commons License.
+https://bit.ly/Climate-Positive_BusDesign (EN) [highly outdated, better choose the ES and translate it]
