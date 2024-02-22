@@ -12,12 +12,12 @@
 
 
 ## 1. TL;DR: Climate-positive bus
-As Urbánika will travel 40 cities across 20 countries with a 12 meter long bus, we want to make the most positive impact we can kilometer by kilometer and city by city.
+Urbánika will travel 20+ cities across LatAm with a 12 meter-long bus with the main goal of facilitating the transformation of cities into smart, regenerative, and selfmanaged communities. And we want to do it in the most positive impact way possible, kilometer by kilometer and city by city.
 
 **How?**
-While outside is the school area, the whole interior design has closed cycles where waste is turned into ingredients for another process.
+While outside is the school area, the whole interior design has closed cycles where waste is turned into ingredients for another process, and nature powers the entire thing.
 
-Thanks to the help of highly committed architects and engineers, we are able to carry in the bus ecotech that turn:
+Thanks to the help of highly committed architects and engineers, we are able to carry in the bus specialized ecotech and systems that turn:
 
 **Grey waters** into clean water to wash dishes, cloths, take a shower, and even drink it! 💧
 **Organic waste** into biogas to cook! and fertilizer to gift or sell 🌻
@@ -25,7 +25,7 @@ Thanks to the help of highly committed architects and engineers, we are able to 
 **[Cooking oil or motor oil](https://steamsystems.wixsite.com/steamsystems)** or **[decontaminant plastic to diesel](https://www.petgas.com.mx/)** to fuel the bus! 🚌
 **Food production** via vertical or cylindrical farms 🌮
 
-We have three goals with this climate-positive transformation:
+**We have three goals with this climate-positive transformation:**
 1. Show that regenerative practices can be achieved without sacrificing lifestyle,
 2. Inspire construction professionals, neighbors, municipal authorities, and business people to make the shift!,
 3. Facilitate the shift through:
@@ -109,16 +109,24 @@ then contact us!
 We'll love to work together in delivering real value where it is most impactful.
 
 ## 6. We are looking for you!
-1. wanna join? We are looking for team members to join in facilitating the emergence of self-managed, autonomous, and regenerative cities.
+1. **wanna join?** We are looking for team members to join in facilitating the emergence of self-managed, smart, and regenerative cities.
 
-If you love urban design, LARP or boardgame design, self-management, public relations, learning experiences, ruby on rails, or web3 development, pls contact us! your help is meaningful and well appreciated.
+If you love urban design, LARP or boardgame design, self-management, public relations, learning experiences, ruby on rails, web3 development, or circular economy pls contact us! your help is meaningful and well appreciated.
 
-2. wanna support? If it's in your possibilities, pls consider donating to us at our [Giveth](https://giveth.io/project/urbanika) or Gitcoin Campaigns.
+2. **wanna support?** If it's in your possibilities, pls consider donating to us at our [Giveth](https://giveth.io/project/urbanika) or Gitcoin Campaigns.
 
 The dream of realizing the first-ever postCapitalist traveling school that is also a climate-positive showroom is happening. Your donation will greatly help us reach the goal.
 
-3. sponsor the trip! If you have a methodology or technology related to facilitating the transition toward climate-positive, carbon-neutral, or circular economy ways, then contact us! We want to promote your products. Let's find a way to help each other make it happen. 
+3. **sponsor or contribute to the bus and trip!** If you have a methodology or technology related to facilitating the transition toward climate-positive, carbon-neutral, or circular economy ways, then contact us! We want to promote your products. Let's find a way to help each other make it happen. 
 
+## Those contributing with their knowledge, systems, or technology will get:
+* A metal plate with their name at the part of the bus they contributed with.
+* Their name at the Gratitude wall (where the names of all donors and participants of the project will be located).
+* A photobook type of album with the blueprints, technical information, and summary of the technological/system contribution the provider did (for example, if contributed with the biofilter, then how does the biofilter work, and what value does it provide to society). This album will have the catalog of services that the provider has and their contact info so the interested decision makers can contact them.
+* Several informational and gratitude posts in social media tagging them.
+* Workshops and demo-days where we are presenting to the media, and to both public and private decision makers how the bus works. In these demostrations, we'll mention the contributors too.
+
+If you have any other idea or request, let us know! If you are contributing to making the bus happen, we are very happy to work closely with you.
 
 ## Notes
 You can read the Climate Positive bus concept here:
