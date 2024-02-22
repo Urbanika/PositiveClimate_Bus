@@ -77,28 +77,13 @@ Thanks to both teams for accompanying us through this journey.
 ## Would you like to turn your van, bus, or house into a climate-positive house?
 Glad you are! The architectural blueprint is licensed under Creative Commons Zero v1.0 Universal and available to be downloaded and used by anyone worldwide. Follow [this repository](https://github.com/Urbanika/PositiveClimate_Bus) and our Twitter profile to know more or ask questions.
 
-## 3. Budget
-The architects and engineers have given us a total budget of $32K USD. This budget covers the entire climate-positive transformation. The remaining budget we have from GGBeta and GG18  after buying the bus and paying the architects is about $10K, that budget is enough to cover the start of the transformation works, which most likely will begin by the end of this GG19.
-
-However, to finish the transformation we need another $22K. Please, consider supporting us to help reach this budget!
-
-## 4. The self-management course
+## 3. The self-management course
 This long bus adventure has a purpose - to spread Urbánika’s course directly where people are.
 
-We want to see emerge a mycelia of self-managed cities, and that will only happen if the units of a city (the neighborhoods) and its change makers (municipal councils, universities, activist orgs and businesses) learn and experience peer governance, commoning, and the use of open-source web3 tech.
+We will stay between 2 to 4 months at strategic cities in LatAm with the purpose of facilitating the transformation of neighborhoods into smart, regenerative, and self managed commununities. These communities will learn how to carry on their governance, management, and operations through peer governance, commoning, and the use of open-source web3 tech.
 
-Urbánika's course on self-management is being developed.
-We have an additional grant only for this at the Web3 and Community round. If you are able to help us there too, we will be very grateful.
-
-### A bit of encouraging context:
-A couple of weeks ago, a big real estate group from Querétaro, México contacted us. They've built 200 condominiums (that hold from 250 to 2500 houses each). They want to decentralize the decision-making of these (neighborhood management is not their business, but building houses) and they want our help!
-
-We expect to start the LATAM tour with good reviews and recommendations from all these people! Wish us luck, and support us if it's in your possibilities, please!
-
-## 5. The LATAM tour: our vision to accelerate the adoption and improvement of regen and open source initiatives
-As you know, we are visiting 40 cities in 20 countries. We are staying about 1-3 months per place, that means, about 5 years of tour.
-
-The LATAM Tour is a traveling fest with workshops, demo days, conferences, job fair, music, food, movies, and art. All related to coordination improvement, open source tech, SolarPunk narratives, postCapitalist patterns, ReFi examples, metacrisis awareness, DAO onboarding, and artivism.
+## 4. The LATAM tour: our vision to accelerate the adoption and improvement of regen and open source initiatives
+As you know, we are visiting 20+ cities in LatAm, from México to Tierra de Fuego, this trip will take us 5 years. Five years of adventures with a traveling fest that will offer workshops, demo days, conferences, positive impact job fairs, music, food, movies, and art. All related to coordination improvement, open source tech, SolarPunk narratives, postCapitalist patterns, ReFi examples, metacrisis awareness, DAO onboarding, and artivism.
 
 If you...
 developed ReFi or open source solutions,
@@ -108,7 +93,7 @@ have job offerings or anything that adds value to society...
 then contact us!
 We'll love to work together in delivering real value where it is most impactful.
 
-## 6. We are looking for you!
+## 5. We are looking for you!
 1. **wanna join?** We are looking for team members to join in facilitating the emergence of self-managed, smart, and regenerative cities.
 
 If you love urban design, LARP or boardgame design, self-management, public relations, learning experiences, ruby on rails, web3 development, or circular economy pls contact us! your help is meaningful and well appreciated.
